@@ -23,8 +23,5 @@
       "required": false
     }
   },
-  "image": "heroku/ruby",
-  "addons": [
-    "papertrail:choklad"
-  ]
+  "image": "heroku/ruby"
 }
